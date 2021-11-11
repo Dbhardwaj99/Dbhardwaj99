@@ -12,7 +12,7 @@
 [![Polywork Badge](https://img.shields.io/badge/-khushbooverma-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/khushbooverma)](http://polywork.com/khushbooverma)
 
 ## 🚀 About Me
-I'm a begineer python developer and currently learning Web3.
+I'm a budding python developer and currently learning Web3.
 I develop software, and love meeting new people!
 
 
