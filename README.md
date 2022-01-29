@@ -18,3 +18,5 @@ I develop software, and love meeting new people!
 
 [![Divyansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dbhardwaj99&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/Dbhardwaj99/github-readme-stats)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dbhardwaj99" alt="dbhardwaj99" /></a> </p>
+
