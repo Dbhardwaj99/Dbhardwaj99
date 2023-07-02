@@ -1,7 +1,10 @@
-![banner.png](https://github.com/Dbhardwaj99/Divyansh-Bhardwaj/blob/main/banner.png)
+![banner.png](https://user-images.githubusercontent.com/87605149/250366078-818f4dc2-4ca3-4094-8158-559077d449ba.png)
 
-<h3 align="center">Hi there! I'm a DevOps/Cloud engineer with expertise in backend development. I specialize in designing and implementing scalable cloud solutions while also being proficient in backend technologies. Let's collaborate to build robust and efficient applications! </h3>
-<img align="right" alt="Coder Image Gif" width="400" src="https://github.com/Dbhardwaj99/Divyansh-Bhardwaj/blob/main/AMAZON-AWS-CLOUD-ENGINEER-2.gif">
+<h3 align="center">
+Hi there! I'm a DevOps/Cloud engineer with expertise in backend development. I specialize in designing and implementing scalable cloud solutions while also being proficient in backend technologies. Let's collaborate to build robust and efficient applications! 
+</h3>
+
+<img align="right" alt="Coder Image Gif" width="400" src="https://user-images.githubusercontent.com/87605149/250366610-0eefb3d1-190e-4d87-88a9-98877b37a9f2.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dbhardwaj99&label=Profile%20views&color=0e75b6&style=flat" alt="DivyanshBhardwaj" /> </p>
