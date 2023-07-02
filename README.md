@@ -6,20 +6,20 @@
 <img align="right" alt="Coder Image Gif" width="400" src="https://camo.githubusercontent.com/5a249fff657eb22fb372ea50a8553b59551fd78ea5df602fc08e3ec1e8e95bb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313935313138322f73637265656e73686f74732f343536303832332f383030783630302e676966">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhangisisodia&label=Profile%20views&color=0e75b6&style=flat" alt="shubhangisisodia" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dbhardwaj99&label=Profile%20views&color=0e75b6&style=flat" alt="DivyanshBhardwaj" /> </p>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **JavaScript, CSS, HTML, React, Redux & TailwindCSS**
+- 💬 Ask me about **Python, AWS, Docker, Kubernetes, Terraform & GCP**
 
-- 📫 How to reach me **sisodiasubhangi@gmail.com**
+- 📫 How to reach me **bhardwajdivyansh2002@gmail.com**
 
-<!-- - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1tCFTtxJsuxLH3znJu92MzaUq_308FAdk/view?usp=share_link) -->
-- 👨‍💻Check out my Projects [Portfolio](https://shubhangisisodia.github.io/)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/13fWbq-DMu8S2y6WeJKO7wFhSCRIWq2YO/view?usp=sharing)
+- 👨‍💻Check out my Projects [Portfolio]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shubhangi-sisodia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhangi sisodia" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/divyansh-bhardwaj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Divyansh Bhardwaj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
